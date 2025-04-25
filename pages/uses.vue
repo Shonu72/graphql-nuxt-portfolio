@@ -1,5 +1,5 @@
 <template>
-  <h1 class="text-3xl font-bold my-8">Uses</h1>
+  <h1 class="text-3xl font-bold my-8">Project Information</h1>
   <p class="text-lg">
     I am a software developer with expertise in Flutter, Native Android, iOS development and Web development.
    
