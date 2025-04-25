@@ -1,7 +1,7 @@
 <template>
   <h1 class="text-3xl font-bold my-8">Uses</h1>
   <p class="text-lg">
-    I am a software developer with expertise in Flutter, Native Android, and Web development.
+    I am a software developer with expertise in Flutter, Native Android, iOS development and Web development.
    
   </p>
 
@@ -10,6 +10,7 @@
     <li class="ml-8 py-1"><a href="https://vuejs.org/">Vue 3</a></li>
     <li class="ml-8 py-1"><a href="https://nuxt.com/">Nuxt 3</a></li>
     <li class="ml-8 py-1"><a href="https://tailwindcss.com/">Tailwind CSS</a></li>
+    <li class="ml-8 py-1">For fetching data from GitHub, I used GraphQl API</li>
     <li class="ml-8 py-1">Hosted on <a href="https://netlify.com/">Vercel</a></li>
   </ul>
 
