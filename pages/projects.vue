@@ -31,6 +31,7 @@ const { data } = await useAsyncQuery(query);
 <template>
   <div class="container mx-auto px-4 sm:px-6 lg:px-8 mb-8">
     <h1 class="text-2xl sm:text-3xl md:text-4xl my-6 sm:my-8">Projects</h1>
+    <p class="text-base sm:text-2xl mb-2">NOTE - In this page data is fetched from GitHub GraphQL API</p>
     <p class="text-base sm:text-lg mb-6 sm:mb-8">Here are some of my projects on GitHub.</p>
     
     <section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8 md:gap-10">

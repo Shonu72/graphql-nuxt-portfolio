@@ -16,19 +16,13 @@ const { data: posts } = await useAsyncData('latest-posts', () =>
     <div class="md:w-3/4">
       <h2 class="text-3xl font-bold mt-8">My Story</h2>
       <p class="text-lg py-2">
-        I am a Software Engineer living just outside of one of my favorite places in the world, Cleveland, Ohio. I am a
-        self-taught programmer who firmly believes that you can accomplish anything in this life if you put your mind to
-        it,
-        roll up your sleeves and are willing to put in the work.
+        I’m a passionate Flutter Developer with over a year of hands-on experience in building high-performance cross-platform applications. I’ve led multiple projects from scratch and enhanced existing applications with impactful features, consistently delivering clean, scalable, and maintainable code. My expertise spans mobile, web, and desktop platforms, and I’m particularly skilled in GetX, Bloc, Riverpod & Provider state management, MVC & MVVM architecture, and integrating complex features such as barcode scanning, video/audio calling, chat systems, payment gateways, and multilingual support.
       </p>
       <p class="text-lg py-2">
-        I have been writing software for over 20+ years now and I use my knowledge, passion, and influence to help other
-        developers achieve their goals. I teach online and currently, have over 160,000 students.
+       Currently, I serve as a SDE2 at HackerKernel, guiding junior developers and conducting code reviews across teams. My leadership and technical contributions recently earned me a 10/10 in my performance review. I’ve published a Flutter package called universal_file_viewer and I’m actively maintaining it to support more formats like Excel, CSV, PPT, and web files.
       </p>
       <p class="text-lg py-2">
-        In my personal life I am a husband to my best friend in the world and a father of two little girls. I enjoy
-        reading,
-        running and lifting weights to get me through the week.
+       I’ve worked on diverse domains such as healthcare, e-commerce (Shopify integrations), pharmacy systems, Fintech Apps, and productivity tools like Rise Pathway. I’m also exploring web development with focus on NUXT JS and backend development with a focus on Java (Spring Boot) and Golang to become a more well-rounded full-stack developer.
       </p>
     </div>
     <img src="~/assets/images/side-prof.jpg" class="w-1/2 md:max-w-sm p-8 mx-auto rounded-full" />
